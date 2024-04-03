@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Desktop\String\Task_home1\obj\Debug\net8.0\Task_home1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\String\Task_home1\obj\Debug\net8.0\Task_home1.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\String\Task_home1\obj\Debug\net8.0\Task_home1.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\String\Task_home1\obj\Debug\net8.0\Task_home1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\String\Task_home1\bin\Debug\net8.0\Task_home1.exe
+C:\Users\Пользователь\Desktop\String\Task_home1\bin\Debug\net8.0\Task_home1.deps.json
+C:\Users\Пользователь\Desktop\String\Task_home1\bin\Debug\net8.0\Task_home1.runtimeconfig.json
+C:\Users\Пользователь\Desktop\String\Task_home1\bin\Debug\net8.0\Task_home1.dll
+C:\Users\Пользователь\Desktop\String\Task_home1\bin\Debug\net8.0\Task_home1.pdb
+C:\Users\Пользователь\Desktop\String\Task_home1\obj\Debug\net8.0\Task_home1.dll
+C:\Users\Пользователь\Desktop\String\Task_home1\obj\Debug\net8.0\refint\Task_home1.dll
+C:\Users\Пользователь\Desktop\String\Task_home1\obj\Debug\net8.0\Task_home1.pdb
+C:\Users\Пользователь\Desktop\String\Task_home1\obj\Debug\net8.0\Task_home1.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\String\Task_home1\obj\Debug\net8.0\ref\Task_home1.dll
